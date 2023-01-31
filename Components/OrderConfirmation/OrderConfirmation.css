@@ -1,0 +1,43 @@
+.conformmessage{
+    width: 60%;
+    margin: auto;
+}
+.orderconform{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(3, 112, 12);
+}
+
+.orderconfirmation{
+    margin-top: 30px;
+}
+
+.happyshopping{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(61, 11, 241);
+    margin-top: 30px;
+}
+
+.orderdetailstext{
+    font-size: 21px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.ui.table{
+    font-size: 18px;
+}
+
+.ui.table thead{
+    font-weight: bold;
+}
+.orderconfirmation{
+    min-height: calc(100vh - 10px);
+}
+.ui.image.confirmimg{
+    margin: auto;
+    transform: rotate(180deg);
+}

@@ -1,0 +1,25 @@
+.checkoutpage{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.personaldetails{
+    width: 50%;
+    margin: auto;
+}
+.orderdetails{
+    width: 60%;
+    margin-left: 40px;
+}
+
+.text{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ui.label{
+    font-size: 15px;
+}

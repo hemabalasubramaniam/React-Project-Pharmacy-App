@@ -1,0 +1,69 @@
+.baby{
+    width: 70%;
+    margin: auto;
+}
+.ui.image{
+    height: 230px;
+    background-size: contain
+}
+ .ui.cards > .card > .image > img{
+    height: 270px;
+}
+.babytext{
+    font-size: 22px;
+    font-weight: bold;
+}
+.medicinedesc{
+    width: 60%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+img.ui.image{
+    width: 350px;
+    height: 350px;
+    margin-bottom: 50px;
+}
+
+.amount{
+    font-size: 20px;
+}
+.desc{
+    font-size: 18px;
+}
+
+.ui.button.viewcart{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.ui.button.cart{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.desc{
+    justify-content: baseline;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 22px;
+}
+.ui.button{
+    font-size: 17px;
+}
+
+.addtocartenable{
+    color: rgb(253, 253, 255);
+    font-weight: bold;
+    font-size: 18px;
+    background-color: rgb(250, 0, 54);
+    width:90%;
+    padding: 10px;
+    margin-top: 15px;
+}
+
+.ui.selection.dropdown{
+    font-size: 9px;
+}

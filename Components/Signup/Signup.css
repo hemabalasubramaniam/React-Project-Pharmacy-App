@@ -1,0 +1,22 @@
+.signupform{
+    width: 35%;
+    margin: auto;
+    margin-top: 50px;
+}
+.signuptext{
+    text-align: center;
+}
+
+.error{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    margin-top: 5px;
+}
+.ui.form .field > label{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.ui.primary.button {
+    margin-top: 10px;
+}

@@ -1,0 +1,20 @@
+.viewcart{
+    width: 70%;
+    margin: auto;
+    margin-top: 40px;
+    font-size: 18px;
+}
+.emptycart{
+    text-align: center;
+    font-size: 24px;
+    color: red;
+    font-weight: bold;
+}
+.ui.table td .image{
+    height: 180px;
+    width: 180px;
+}
+.viewcart
+{
+    min-height: calc(100vh - 10px);
+}

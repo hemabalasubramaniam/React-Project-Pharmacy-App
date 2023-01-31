@@ -1,0 +1,25 @@
+.medicinetypes{
+    width: 65%;
+    margin: auto;
+    margin-top: 40px;
+}
+.ui.image{
+    height: 230px;
+}
+.ui.container{
+    height: 500px;
+}
+
+.ui.image.fimg{
+    width: 100%;
+    height: 500px;
+}
+
+.medtype{
+    margin-left: 15px;
+}
+
+.ui.image.homeimg{
+    height: 200px;
+}
+

@@ -1,0 +1,24 @@
+.userverify
+{
+    min-height: calc(100vh - 10px);
+    width: 40%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.deliveryaddress{
+    font-size: 22px;
+    text-align: center;
+}
+
+.ui.button.proceedbtn{
+    margin-left: 35px;
+    margin-top: 25px;
+}
+.ui.button.edit{
+    margin-left: 0px;
+}
+
+.verifydetails{
+    text-align: center;
+}

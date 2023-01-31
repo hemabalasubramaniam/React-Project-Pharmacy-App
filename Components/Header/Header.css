@@ -1,0 +1,17 @@
+.ui.button.signup{
+    padding: 15px;
+    font-size: 16px;
+}
+.ui.button.signup:hover{
+    background-color: black;
+}
+.logoname{
+    color: teal;
+}
+.logoimg{
+    mix-blend-mode: multiply;
+}
+/* .ui.clearing.segment.headersegment
+{
+    background-image: url('https://img.freepik.com/free-vector/watercolor-background-with-hand-drawn-elements_23-2148867455.jpg?w=2000');
+} */

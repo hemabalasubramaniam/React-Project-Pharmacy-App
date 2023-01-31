@@ -1,0 +1,27 @@
+.footercontent{
+    width: 60%;
+    margin: auto;
+}
+.footer{
+    margin-top: 60px;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+i.icon, i.icons{
+    width: 100px;
+}
+span{
+    font-size: 20px;
+}
+.ui.column p{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.about{
+    font-size: 20px;
+    font-weight: bold;
+}
+.aboutdesc{
+    font-size: 15px;
+}
